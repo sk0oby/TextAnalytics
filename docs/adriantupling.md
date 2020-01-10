@@ -1,3 +1,9 @@
+Android | iOS | Windows
+---: | :---: | ---:
+Medium App for Android | Maximum app for iOS | Medium App for Windows
+£100.00 | £150.00 | £250.00
+[Play Store](https://www.google.co.uk) | [App Store](https://www.google.co.uk)
+
 + [ ] task1
 + [ ] task 2
 
@@ -6,7 +12,7 @@ test **bold** and *italics* and ***both*** test
 > you said **this** quote
 
 <s>this scratches out the text</s>
-
+   
 # Header 1
 
 ## Header 2
