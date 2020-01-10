@@ -3,6 +3,7 @@ Android | iOS | Windows
 Medium App for Android | Maximum app for iOS | Medium App for Windows
 £100.00 | £150.00 | £250.00
 [Play Store](https://www.google.co.uk) | [App Store](https://www.google.co.uk)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg) | ![](https://symbiotics.co.za/wp-content/uploads/2016/01/ios.png) | ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg)
 
 + [ ] task1
 + [ ] task 2
